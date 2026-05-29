@@ -300,8 +300,3 @@ Then access:
 http://localhost:8080
 ```
 
----
-
-# Author
-
-Created by Vamsi
